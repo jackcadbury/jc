@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="All Channels",Rai sport Italy
+https://pass.iranvids.com/http://85.209.248.3:8080/RaiSportHD/index.m3u8
+#EXTINF:-1 tvg-id="Rai Sport Italy" group-title="All Channels"
+http://epg-guide.com/epg-guide.xml
+
+
+#EXTINF:-1 group-title="All Channels",Golazo network usa (Champions league EFL)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 tvg-id="Golazo Network USA" group-title="All Channels"
+https://github.com/usa-local-epg/usa-locals/raw/main/usalocals.xml.gz
